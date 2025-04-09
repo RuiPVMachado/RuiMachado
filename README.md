@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C#<br>🎯 Goals: University</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning CyberSecurity </p>
 
 ###
 
